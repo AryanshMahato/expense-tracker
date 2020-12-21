@@ -14,9 +14,14 @@
     "test-all": "yarn lint && yarn type-check && yarn test"
   },
   "dependencies": {
+    "@speechly/react-client": "^0.0.4",
+    "@speechly/react-ui": "^1.1.0",
+    "chart.js": "^2.9.4",
     "next": "latest",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "16.12.0",
+    "react-chartjs-2": "^2.11.1",
+    "react-dom": "16.12.0",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "@testing-library/react": "^10.0.1",
