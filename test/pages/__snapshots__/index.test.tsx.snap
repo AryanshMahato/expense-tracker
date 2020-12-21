@@ -2,6 +2,6 @@
 
 exports[`Home page matches snapshot 1`] = `
 <DocumentFragment>
-  Welcome to Next Boilerplate
+  Welcome to Expense Tracker App
 </DocumentFragment>
 `;

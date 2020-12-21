@@ -1,7 +1,7 @@
 import { NextPage } from "next";
 
 const Index: NextPage = () => {
-	return <>Welcome to Next Boilerplate</>;
+	return <>Welcome to Expense Tracker App</>;
 };
 
 export default Index;

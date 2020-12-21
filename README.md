@@ -1,5 +1,5 @@
-# NextJS boilerplate
-Boilerplate that will work as starter for many application
+# Expense Tracker
+Frontend Application with speech recognition expense tracking
 
 ### Start Application
 ```bash
